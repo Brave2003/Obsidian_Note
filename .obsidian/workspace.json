@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "bd534aa3a21bb1c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "87fe85a6228ecc44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e9fad405526491",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-22 15.05.33.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cb952c76309f8f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3e1d9e0d886054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78235b997f6e45c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2963ffbd5f4c3e76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6188108bc91baf3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "34e39c66bf9abeff",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb047144192b079f",
+    "type": "split",
+    "children": [
+      {
+        "id": "092866ab187b027c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40791460bd58e46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "e6a9a2462b978511",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Drawing 2026-03-22 15.05.33.excalidraw 的出链列表"
+            }
+          },
+          {
+            "id": "125981b9dc5e253f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8b19f9c6bfa8e13a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d9f23c1d977c7d36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "f730f50db6bd87f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
+    }
+  },
+  "active": "a2e9fad405526491",
+  "lastOpenFiles": [
+    "Excalidraw/附件/Pasted Image 20260322200028_013.png",
+    "Excalidraw/附件/Pasted Image 20260322200016_086.png",
+    "Excalidraw/附件/Pasted Image 20260322182821_774.png",
+    "Excalidraw/附件/Pasted Image 20260322182812_065.png",
+    "Excalidraw/附件/Pasted Image 20260322172014_670.png",
+    "Excalidraw/附件/Pasted Image 20260322155445_559.png",
+    "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
+    "Excalidraw/附件",
+    "Excalidraw/附件/Pasted Image 20260322170238_150.png",
+    "Excalidraw/附件/Pasted Image 20260322170216_892.png",
+    "Excalidraw/附件/Pasted Image 20260322170200_894.png",
+    "Excalidraw/附件/Pasted Image 20260322170121_152.png",
+    "Excalidraw/附件/Pasted Image 20260322170055_407.png",
+    "Experiment/Splat-slam 不同损失比较.md",
+    "Project/Splat-slam/README.md",
+    "Experiment/Splat-slam 不同损失比较.canvas",
+    "Excalidraw",
+    "Project/Splat-slam",
+    "Experiment",
+    "Project",
+    "Paper",
+    "Untitled Kanban.md",
+    "Drawing 2026-03-22 14.58.56.excalidraw.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "未命名.base",
+    "论文/未命名",
+    "未命名.canvas",
+    "欢迎.md",
+    "2026-03-22.md"
+  ]
+}
