@@ -11,10 +11,12 @@
             "id": "94f13eb9713898ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-22 15.05.33.excalidraw"
             }
           }
         ]
@@ -161,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Drawing 2026-03-22 15.05.33.excalidraw 的大纲"
             }
           },
           {
@@ -200,7 +203,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f730f50db6bd87f2",
+  "active": "94f13eb9713898ef",
   "lastOpenFiles": [
     "新建 文本文档.txt",
     "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
