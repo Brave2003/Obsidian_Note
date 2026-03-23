@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e4486357aafca96",
+        "id": "18f356f5a1c7b430",
         "type": "tabs",
         "children": [
           {
-            "id": "220ec85104daf261",
+            "id": "9653390a4fc6a91c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -202,9 +202,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "220ec85104daf261",
+  "active": "9653390a4fc6a91c",
   "lastOpenFiles": [
+    "Excalidraw/附件/Pasted Image 20260323145540_572.png",
     "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/附件/Pasted Image 20260322200028_013.png",
     "Excalidraw/附件/Pasted Image 20260322200016_086.png",
     "Excalidraw/附件/Pasted Image 20260322182821_774.png",
@@ -215,7 +217,6 @@
     "Excalidraw/附件/Pasted Image 20260322170238_150.png",
     "Excalidraw/附件/Pasted Image 20260322170216_892.png",
     "Excalidraw/附件/Pasted Image 20260322170200_894.png",
-    "Excalidraw/附件/Pasted Image 20260322170121_152.png",
     "Experiment/Splat-slam 不同损失比较.md",
     "Project/Splat-slam/README.md",
     "Experiment/Splat-slam 不同损失比较.canvas",

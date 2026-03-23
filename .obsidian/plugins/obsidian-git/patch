@@ -1,0 +1,23 @@
+diff --git a/conflict-files-obsidian-git.md b/conflict-files-obsidian-git.md
+index 000000..000000 100644
+--- a/conflict-files-obsidian-git.md
++++ b/conflict-files-obsidian-git.md
+@@ -1,0 +1,17 @@
++# Conflicts
++Please resolve them and commit them using the commands `Git: Commit all changes` followed by `Git: Push`
++(This file will automatically be deleted before commit)
++[[#Additional Instructions]] available below file list
++
++- [[Drawing 2026-03-22 15.05.33.excalidraw]]
++
++# Additional Instructions
++I strongly recommend to use "Source mode" for viewing the conflicted files. For simple conflicts, in each file listed above replace every occurrence of the following text blocks with the desired text.
++
++```diff
++<<<<<<< HEAD
++    File changes in local repository
++=======
++    File changes in remote repository
++>>>>>>> origin/main
++```
+\ No newline at end of file
