@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "18f356f5a1c7b430",
+        "id": "decab434952d0d41",
         "type": "tabs",
         "children": [
           {
-            "id": "9653390a4fc6a91c",
+            "id": "94f13eb9713898ef",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-22 15.05.33.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -202,10 +200,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9653390a4fc6a91c",
+  "active": "94f13eb9713898ef",
   "lastOpenFiles": [
-    "Excalidraw/附件/Pasted Image 20260323145540_572.png",
     "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
+    "Excalidraw/附件/Pasted Image 20260323145540_572.png",
     "conflict-files-obsidian-git.md",
     "Excalidraw/附件/Pasted Image 20260322200028_013.png",
     "Excalidraw/附件/Pasted Image 20260322200016_086.png",
