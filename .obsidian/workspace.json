@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87fe85a6228ecc44",
+        "id": "decab434952d0d41",
         "type": "tabs",
         "children": [
           {
-            "id": "a2e9fad405526491",
+            "id": "94f13eb9713898ef",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -78,8 +78,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -163,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Drawing 2026-03-22 15.05.33.excalidraw 的大纲"
             }
           },
           {
@@ -198,37 +199,25 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a2e9fad405526491",
+  "active": "94f13eb9713898ef",
   "lastOpenFiles": [
     "Excalidraw/附件/Pasted Image 20260324165155_074.png",
     "Excalidraw/附件/Pasted Image 20260324160348_201.png",
     "Excalidraw/附件/Pasted Image 20260324155813_361.png",
-    "conflict-files-obsidian-git.md",
-    "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
     "Excalidraw/附件/Pasted Image 20260323145540_572.png",
+    "Excalidraw/Drawing 2026-03-22 15.05.33.excalidraw.md",
+    "Excalidraw/附件/Pasted Image 20260322155445_559.png",
+    "新建 文本文档.txt",
+    "conflict-files-obsidian-git.md",
     "Excalidraw/附件/Pasted Image 20260322200028_013.png",
     "Excalidraw/附件/Pasted Image 20260322200016_086.png",
     "Excalidraw/附件/Pasted Image 20260322182821_774.png",
     "Excalidraw/附件/Pasted Image 20260322182812_065.png",
     "Excalidraw/附件/Pasted Image 20260322172014_670.png",
-    "Excalidraw/附件/Pasted Image 20260322155445_559.png",
     "Excalidraw/附件",
     "Excalidraw/附件/Pasted Image 20260322170238_150.png",
     "Experiment/Splat-slam 不同损失比较.md",
@@ -259,7 +248,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "未命名.base",
-    "论文/未命名",
     "未命名.canvas",
     "欢迎.md",
     "2026-03-22.md"
