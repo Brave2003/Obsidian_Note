@@ -5,7 +5,15 @@
       "Bash(xargs rm -rf)",
       "Bash(git add *)",
       "Bash(git commit *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(winget --version)",
+      "Bash(winget install *)",
+      "Bash(npm --version)",
+      "Read(//c/Program Files/nodejs/**)",
+      "Read(//c/Program Files \\(x86\\)/nodejs/**)",
+      "Bash(reg query *)",
+      "Bash(/c/Program Files/nodejs/node.exe *)",
+      "Bash(export ECC_GATEGUARD=off)"
     ]
   }
 }

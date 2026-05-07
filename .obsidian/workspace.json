@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "center",
+        "id": "139071cdb4e9cd2b",
         "type": "tabs",
         "children": [
           {
-            "id": "welcome",
+            "id": "65807228ba6caad7",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -25,27 +27,20 @@
     "type": "split",
     "children": [
       {
-        "id": "file-explorer",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "search",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "9aa30b270abf9ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d0ef6ed6abfebf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -56,25 +51,83 @@
     "type": "split",
     "children": [
       {
-        "id": "backlink",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "b4c585537cd60e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "backlink",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "6aa3fdeb292f2eca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "dacc8d9c15e518fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "welcome"
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7d0ef6ed6abfebf6",
+  "lastOpenFiles": [
+    "Templates/Quick Capture.md",
+    "Templates/Meeting Note.md",
+    "Templates/Project Note.md",
+    "Templates/Daily Note.md",
+    "Meeting",
+    "Project",
+    "Daily",
+    "Templates",
+    "未命名.base",
+    "test.md"
+  ]
 }
