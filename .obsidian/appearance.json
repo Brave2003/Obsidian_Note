@@ -1,8 +1,6 @@
 {
-  "accentColor": "#5c9ef5",
-  "cssTheme": "Things",
-  "interfaceFontFamily": "",
-  "baseFontSize": 14,
-  "baseFontSizeAction": true,
-  "nativeMenus": false
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

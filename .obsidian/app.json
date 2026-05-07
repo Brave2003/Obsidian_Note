@@ -1,6 +1,7 @@
 {
-  "promptDelete": false,
-  "showLineNumber": true,
-  "rightToLeft": false,
-  "attachmentFolderPath": "./附件"
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "",
+  "promptDelete": false
 }
