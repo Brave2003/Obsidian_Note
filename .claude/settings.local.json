@@ -13,7 +13,16 @@
       "Read(//c/Program Files \\(x86\\)/nodejs/**)",
       "Bash(reg query *)",
       "Bash(/c/Program Files/nodejs/node.exe *)",
-      "Bash(export ECC_GATEGUARD=off)"
+      "Bash(export ECC_GATEGUARD=off)",
+      "Read(//wsl.localhost/Ubuntu-24.04/home/brave/project/claude/**)",
+      "Read(///wsl.localhost/Ubuntu-24.04/home/brave/project/claude/**)",
+      "Bash(wsl -d Ubuntu-24.04 ls -la /home/brave/project/claude/learn-claude-source/doc/)",
+      "Bash(wsl ls *)",
+      "Read(///wsl.localhost/Ubuntu-24.04/home/brave/project/claude/learn-claude-source/**)",
+      "Read(//wsl$/Ubuntu-24.04/home/brave/project/claude/learn-claude-source/**)",
+      "Bash(powershell -Command \"Get-ChildItem -Path '\\\\\\\\\\\\\\\\wsl.localhost\\\\\\\\Ubuntu-24.04\\\\\\\\home\\\\\\\\brave\\\\\\\\project\\\\\\\\claude\\\\\\\\learn-claude-source\\\\\\\\doc'\")",
+      "Bash(cmd /c \"dir \\\\\\\\wsl.localhost\\\\Ubuntu-24.04\\\\home\\\\brave\\\\project\\\\claude\\\\learn-claude-source\\\\doc\")",
+      "Bash(powershell *)"
     ]
   }
 }
