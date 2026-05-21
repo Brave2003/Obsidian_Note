@@ -1,0 +1,76 @@
+{
+  "recentFiles": [
+    {
+      "basename": "agent框架",
+      "path": "claude study/OpenClaw/agent框架.md"
+    },
+    {
+      "basename": "Sparse GS content",
+      "path": "benchmark/paper research/Sparse GS content.md"
+    },
+    {
+      "basename": "SparseGS",
+      "path": "benchmark/paper research/SparseGS.md"
+    },
+    {
+      "basename": "openclaw-architecture.excalidraw",
+      "path": "claude study/OpenClaw/openclaw-architecture.excalidraw.md"
+    },
+    {
+      "basename": "VG-Mapping",
+      "path": "paper reviewer/VG-Mapping.md"
+    },
+    {
+      "basename": "OpenClaw",
+      "path": "claude study/OpenClaw/OpenClaw.md"
+    },
+    {
+      "basename": "Daily Note",
+      "path": "Templates/Daily Note.md"
+    },
+    {
+      "basename": "NoPoSplat",
+      "path": "benchmark/paper research/NoPoSplat.md"
+    },
+    {
+      "basename": "SparseNerf",
+      "path": "benchmark/paper research/SparseNerf.md"
+    },
+    {
+      "basename": "DDGS",
+      "path": "benchmark/paper research/DDGS.md"
+    },
+    {
+      "basename": "DropGS",
+      "path": "benchmark/paper research/DropGS.md"
+    },
+    {
+      "basename": "Mindmap format",
+      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.md"
+    },
+    {
+      "basename": "Mindmap format",
+      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
+    },
+    {
+      "basename": "Auto Layout",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.md"
+    },
+    {
+      "basename": "架构",
+      "path": "claude study/claw code/架构.md"
+    },
+    {
+      "basename": "architecture",
+      "path": "claude study/Learn-Claude-Source/architecture.md"
+    },
+    {
+      "basename": "FSGS",
+      "path": "benchmark/paper research/FSGS.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
