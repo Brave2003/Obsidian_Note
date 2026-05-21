@@ -1,4 +1,9 @@
 [
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-linter",
+  "recent-files-obsidian",
+  "obsidian-hover-editor",
+  "multi-column-markdown",
+  "obsidian-style-settings"
 ]

@@ -3,5 +3,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "",
   "attachmentFolderPath": "",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true,
+  "readableLineLength": false
 }

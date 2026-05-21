@@ -1,6 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#5f8fdd",
   "cssTheme": "",
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font"
 }
