@@ -1,0 +1,234 @@
+{
+  "workspaces": {
+    "current": {
+      "main": {
+        "id": "main",
+        "type": "split",
+        "children": [
+          {
+            "id": "02ae30da979a37b9",
+            "type": "split",
+            "children": [
+              {
+                "id": "c4f3eb6c0bf8aaed",
+                "type": "tabs",
+                "dimension": 72.17741935483872,
+                "children": [
+                  {
+                    "id": "662963bcb5a4305e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "benchmark/paper research/Sparse GS content.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Sparse GS content"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "abec585726c4ea83",
+                "type": "tabs",
+                "dimension": 27.82258064516129,
+                "children": [
+                  {
+                    "id": "73f65f7de2bd558f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "claudian-view",
+                      "state": {},
+                      "icon": "bot",
+                      "title": "Claudian"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "left",
+        "type": "split",
+        "children": [
+          {
+            "id": "9aa30b270abf9ad7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7d0ef6ed6abfebf6",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "36f93d6188ef097f",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "[\"tags\"]",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "9c2292ff51e57186",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "71cd9ddca3839a0b",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 265.5
+      },
+      "right": {
+        "id": "right",
+        "type": "split",
+        "children": [
+          {
+            "id": "b4c585537cd60e69",
+            "type": "tabs",
+            "dimension": 72.71505376344086,
+            "children": [
+              {
+                "id": "backlink",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "claude study/OpenClaw/agent框架.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "agent框架 的反向链接列表"
+                }
+              },
+              {
+                "id": "6aa3fdeb292f2eca",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "015db6343b209788",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "benchmark/paper research/Sparse GS content.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Sparse GS content 的大纲"
+                }
+              },
+              {
+                "id": "2538b5bf42e18fa7",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-view",
+                  "state": {},
+                  "icon": "smart-connections",
+                  "title": "Connections"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "59f0c99ac63fa715",
+            "type": "tabs",
+            "dimension": 27.284946236559136,
+            "children": [
+              {
+                "id": "3e3242de940fff63",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 271.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "command-palette:打开命令面板": false,
+          "bases:新建数据库": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false,
+          "realclaudian:Open Claudian": false,
+          "periodic-notes:Open today": false,
+          "smart-connections:Smart Connections: Open connections view": false,
+          "smart-connections:Toggle Footer Connections": false,
+          "smart-connections:Smart Connections: Open random connection": false,
+          "smart-connections:Smart Lookup: Open lookup view": false
+        }
+      },
+      "active": "73f65f7de2bd558f",
+      "mtime": "2026-05-27T02:35:39+08:00"
+    }
+  },
+  "active": "current"
+}

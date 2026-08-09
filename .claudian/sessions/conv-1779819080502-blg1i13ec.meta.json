@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779819080502-blg1i13ec",
+  "providerId": "claude",
+  "title": "Test connection and response",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779819080502,
+  "updatedAt": 1780514219970,
+  "lastResponseAt": 1780514219970,
+  "sessionId": "bbbafbae-6748-45d5-8cac-d4a74c3301f0",
+  "providerState": {
+    "providerSessionId": "bbbafbae-6748-45d5-8cac-d4a74c3301f0"
+  },
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 356,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 79232,
+    "contextWindow": 1000000,
+    "contextTokens": 79588,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

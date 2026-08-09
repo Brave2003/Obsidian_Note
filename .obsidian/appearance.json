@@ -1,9 +1,13 @@
 {
-  "accentColor": "#5f8fdd",
-  "cssTheme": "",
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "baseFontSize": 16,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font"
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "daily-colors"
+  ]
 }

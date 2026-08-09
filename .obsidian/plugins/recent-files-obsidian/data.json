@@ -1,72 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "agent框架",
-      "path": "claude study/OpenClaw/agent框架.md"
+      "basename": "SLAM前端跟踪",
+      "path": "SLAM/面试/SLAM前端跟踪.md"
     },
     {
-      "basename": "Sparse GS content",
-      "path": "benchmark/paper research/Sparse GS content.md"
+      "basename": "SLAM前端常用位姿估计算法",
+      "path": "SLAM/面试/SLAM前端常用位姿估计算法.md"
     },
     {
-      "basename": "SparseGS",
-      "path": "benchmark/paper research/SparseGS.md"
+      "basename": "基于多相机融合的实时环境重建与定位（优秀毕业论文）",
+      "path": "SLAM/面试/项目介绍/基于多相机融合的实时环境重建与定位（优秀毕业论文）.md"
     },
     {
-      "basename": "openclaw-architecture.excalidraw",
-      "path": "claude study/OpenClaw/openclaw-architecture.excalidraw.md"
+      "basename": "个人信息",
+      "path": "Offer/个人信息.md"
+    },
+    {
+      "basename": "视觉SLAM系统搭建与算法优化项目",
+      "path": "SLAM/面试/项目介绍/视觉SLAM系统搭建与算法优化项目.md"
+    },
+    {
+      "basename": "稀疏视角3DGS重建数据生成平台",
+      "path": "SLAM/面试/项目介绍/稀疏视角3DGS重建数据生成平台.md"
+    },
+    {
+      "basename": "Fast 4D Gaussian Splatting SLAM（IJCV在投）",
+      "path": "SLAM/面试/项目介绍/Fast 4D Gaussian Splatting SLAM（IJCV在投）.md"
+    },
+    {
+      "basename": "深圳欢创实习项目",
+      "path": "SLAM/面试/项目介绍/深圳欢创实习项目.md"
+    },
+    {
+      "basename": "大华实习项目",
+      "path": "SLAM/面试/项目介绍/大华实习项目.md"
+    },
+    {
+      "basename": "投递统计",
+      "path": "Offer/投递统计.md"
+    },
+    {
+      "basename": "BA",
+      "path": "SLAM/面试/BA.md"
+    },
+    {
+      "basename": "IMU预积分",
+      "path": "SLAM/面试/IMU预积分.md"
+    },
+    {
+      "basename": "介绍",
+      "path": "SLAM/OpenVins/介绍.md"
+    },
+    {
+      "basename": "Basalt标定工具",
+      "path": "SLAM/面试/Basalt标定工具.md"
+    },
+    {
+      "basename": "评价指标",
+      "path": "SLAM/面试/评价指标.md"
+    },
+    {
+      "basename": "Basalt",
+      "path": "SLAM/面试/Basalt.md"
+    },
+    {
+      "basename": "介绍",
+      "path": "SLAM/Vins-mono/介绍.md"
+    },
+    {
+      "basename": "介绍",
+      "path": "SLAM/ORB-SLAM2/介绍.md"
+    },
+    {
+      "basename": "特征点区别",
+      "path": "SLAM/面试/特征点区别.md"
+    },
+    {
+      "basename": "伽利略",
+      "path": "Offer/company/伽利略.md"
+    },
+    {
+      "basename": "博雷顿科技",
+      "path": "Offer/company/博雷顿科技.md"
+    },
+    {
+      "basename": "极豪科技",
+      "path": "Offer/company/极豪科技.md"
+    },
+    {
+      "basename": "02-前端特征跟踪",
+      "path": "SLAM/Vins-mono/02-前端特征跟踪.md"
+    },
+    {
+      "basename": "01-基础数据结构与工具",
+      "path": "SLAM/Vins-mono/01-基础数据结构与工具.md"
+    },
+    {
+      "basename": "03-后端VIO估计器",
+      "path": "SLAM/Vins-mono/03-后端VIO估计器.md"
+    },
+    {
+      "basename": "ROS1-limitations",
+      "path": "SLAM/ROS2/ROS1-limitations.md"
+    },
+    {
+      "basename": "ROS1-review",
+      "path": "SLAM/ROS2/ROS1-review.md"
+    },
+    {
+      "basename": "04-回环检测与全局优化",
+      "path": "SLAM/Vins-mono/04-回环检测与全局优化.md"
+    },
+    {
+      "basename": "05-辅助模块与阅读实践",
+      "path": "SLAM/Vins-mono/05-辅助模块与阅读实践.md"
+    },
+    {
+      "basename": "01_传感器标定",
+      "path": "SLAM/OpenVins/01_传感器标定.md"
+    },
+    {
+      "basename": "README",
+      "path": "SLAM/Vins-mono/README.md"
+    },
+    {
+      "basename": "SLAM_02_多视图几何与视觉前端",
+      "path": "SLAM/Study/SLAM_02_多视图几何与视觉前端.md"
+    },
+    {
+      "basename": "SLAM_05_VIO核心模块",
+      "path": "SLAM/Study/SLAM_05_VIO核心模块.md"
+    },
+    {
+      "basename": "02_IMU传播推导",
+      "path": "SLAM/OpenVins/02_IMU传播推导.md"
+    },
+    {
+      "basename": "03_FEJ第一估计雅可比",
+      "path": "SLAM/OpenVins/03_FEJ第一估计雅可比.md"
+    },
+    {
+      "basename": "08_系统评估",
+      "path": "SLAM/OpenVins/08_系统评估.md"
+    },
+    {
+      "basename": "07_视觉惯性仿真器",
+      "path": "SLAM/OpenVins/07_视觉惯性仿真器.md"
+    },
+    {
+      "basename": "06_零速度更新",
+      "path": "SLAM/OpenVins/06_零速度更新.md"
+    },
+    {
+      "basename": "04_相机测量更新与特征表示",
+      "path": "SLAM/OpenVins/04_相机测量更新与特征表示.md"
     },
     {
       "basename": "VG-Mapping",
       "path": "paper reviewer/VG-Mapping.md"
     },
     {
-      "basename": "OpenClaw",
-      "path": "claude study/OpenClaw/OpenClaw.md"
+      "basename": "02-geometry",
+      "path": "SLAM/GTSAM/02-geometry.md"
     },
     {
-      "basename": "Daily Note",
-      "path": "Templates/Daily Note.md"
+      "basename": "07-slam-SmartFactors",
+      "path": "SLAM/GTSAM/07-slam-SmartFactors.md"
     },
     {
-      "basename": "NoPoSplat",
-      "path": "benchmark/paper research/NoPoSplat.md"
+      "basename": "08-discrete",
+      "path": "SLAM/GTSAM/08-discrete.md"
     },
     {
-      "basename": "SparseNerf",
-      "path": "benchmark/paper research/SparseNerf.md"
+      "basename": "07-slam",
+      "path": "SLAM/GTSAM/07-slam.md"
     },
     {
-      "basename": "DDGS",
-      "path": "benchmark/paper research/DDGS.md"
+      "basename": "09-hybrid",
+      "path": "SLAM/GTSAM/09-hybrid.md"
     },
     {
-      "basename": "DropGS",
-      "path": "benchmark/paper research/DropGS.md"
+      "basename": "06-navigation",
+      "path": "SLAM/GTSAM/06-navigation.md"
     },
     {
-      "basename": "Mindmap format",
-      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.md"
+      "basename": "04-nonlinear",
+      "path": "SLAM/GTSAM/04-nonlinear.md"
     },
     {
-      "basename": "Mindmap format",
-      "path": "Excalidraw/Scripts/Downloaded/Mindmap format.svg"
+      "basename": "03-inference",
+      "path": "SLAM/GTSAM/03-inference.md"
     },
     {
-      "basename": "Auto Layout",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.md"
+      "basename": "00-用户指南",
+      "path": "SLAM/GTSAM/00-用户指南.md"
     },
     {
-      "basename": "架构",
-      "path": "claude study/claw code/架构.md"
-    },
-    {
-      "basename": "architecture",
-      "path": "claude study/Learn-Claude-Source/architecture.md"
-    },
-    {
-      "basename": "FSGS",
-      "path": "benchmark/paper research/FSGS.md"
+      "basename": "01-base",
+      "path": "SLAM/GTSAM/01-base.md"
     }
   ],
   "omittedPaths": [],

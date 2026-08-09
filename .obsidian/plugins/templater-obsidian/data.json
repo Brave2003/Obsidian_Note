@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Daily",
+      "folder": "Calendar/Daily",
       "template": "Templates/Daily Note.md"
+    },
+    {
+      "folder": "Calendar/Weekly",
+      "template": "Templates/Weekly Note.md"
     },
     {
       "folder": "Project",

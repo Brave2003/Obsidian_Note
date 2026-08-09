@@ -1,0 +1,82 @@
+2026-06-04 03:23:06.402 [info] Starting Excalidraw MCP server...
+2026-06-04 03:23:06.404 [debug] Connecting to transport...
+2026-06-04 03:23:06.405 [info] Excalidraw MCP server running on stdio
+2026-06-04 03:27:17.852 [info] Starting Excalidraw MCP server...
+2026-06-04 03:27:17.854 [debug] Connecting to transport...
+2026-06-04 03:27:17.854 [info] Excalidraw MCP server running on stdio
+2026-06-04 03:30:29.033 [info] Starting Excalidraw MCP server...
+2026-06-04 03:30:29.035 [debug] Connecting to transport...
+2026-06-04 03:30:29.035 [info] Excalidraw MCP server running on stdio
+2026-06-04 03:30:29.048 [info] Listing available tools
+2026-06-04 03:31:23.865 [info] Handling tool call: create_element
+2026-06-04 03:31:23.866 [info] Creating element
+2026-06-04 03:31:28.847 [info] Handling tool call: create_element
+2026-06-04 03:31:28.847 [info] Creating element
+2026-06-04 03:31:34.807 [info] Handling tool call: create_element
+2026-06-04 03:31:34.808 [info] Creating element
+2026-06-04 03:31:41.650 [info] Handling tool call: create_element
+2026-06-04 03:31:41.651 [info] Creating element
+2026-06-04 03:32:02.743 [info] Handling tool call: create_element
+2026-06-04 03:32:02.743 [info] Creating element
+2026-06-04 03:32:03.429 [info] Handling tool call: create_element
+2026-06-04 03:32:03.430 [info] Creating element
+2026-06-04 03:32:04.272 [info] Handling tool call: create_element
+2026-06-04 03:32:04.272 [info] Creating element
+2026-06-04 03:32:05.327 [info] Handling tool call: create_element
+2026-06-04 03:32:05.327 [info] Creating element
+2026-06-04 03:32:06.623 [info] Handling tool call: create_element
+2026-06-04 03:32:06.624 [info] Creating element
+2026-06-04 03:32:07.934 [info] Handling tool call: create_element
+2026-06-04 03:32:07.934 [info] Creating element
+2026-06-04 03:32:09.159 [info] Handling tool call: create_element
+2026-06-04 03:32:09.160 [info] Creating element
+2026-06-04 03:32:10.715 [info] Handling tool call: create_element
+2026-06-04 03:32:10.715 [info] Creating element
+2026-06-04 03:32:12.398 [info] Handling tool call: create_element
+2026-06-04 03:32:12.399 [info] Creating element
+2026-06-04 03:32:14.538 [info] Handling tool call: create_element
+2026-06-04 03:32:14.539 [info] Creating element
+2026-06-04 03:32:37.175 [info] Handling tool call: create_element
+2026-06-04 03:32:37.175 [info] Creating element
+2026-06-04 03:32:38.019 [info] Handling tool call: create_element
+2026-06-04 03:32:38.019 [info] Creating element
+2026-06-04 03:32:39.125 [info] Handling tool call: create_element
+2026-06-04 03:32:39.126 [info] Creating element
+2026-06-04 03:32:40.374 [info] Handling tool call: create_element
+2026-06-04 03:32:40.374 [info] Creating element
+2026-06-04 03:32:41.735 [info] Handling tool call: create_element
+2026-06-04 03:32:41.735 [info] Creating element
+2026-06-04 03:32:43.089 [info] Handling tool call: create_element
+2026-06-04 03:32:43.089 [info] Creating element
+2026-06-04 03:32:44.614 [info] Handling tool call: create_element
+2026-06-04 03:32:44.614 [info] Creating element
+2026-06-04 03:32:45.892 [info] Handling tool call: create_element
+2026-06-04 03:32:45.892 [info] Creating element
+2026-06-04 03:32:47.373 [info] Handling tool call: create_element
+2026-06-04 03:32:47.374 [info] Creating element
+2026-06-04 03:32:48.862 [info] Handling tool call: create_element
+2026-06-04 03:32:48.863 [info] Creating element
+2026-06-30 13:41:05.365 [info] Starting Excalidraw MCP server...
+2026-06-30 13:41:05.367 [debug] Connecting to transport...
+2026-06-30 13:41:05.367 [info] Excalidraw MCP server running on stdio
+2026-06-30 13:41:05.379 [info] Listing available tools
+2026-06-30 13:43:09.769 [info] Starting Excalidraw MCP server...
+2026-06-30 13:43:09.772 [debug] Connecting to transport...
+2026-06-30 13:43:09.772 [info] Excalidraw MCP server running on stdio
+2026-06-30 13:43:09.786 [info] Listing available tools
+2026-06-30 13:44:00.577 [info] Starting Excalidraw MCP server...
+2026-06-30 13:44:00.579 [debug] Connecting to transport...
+2026-06-30 13:44:00.580 [info] Excalidraw MCP server running on stdio
+2026-06-30 13:44:00.596 [info] Listing available tools
+2026-07-01 16:27:27.962 [info] Starting Excalidraw MCP server...
+2026-07-01 16:27:27.965 [debug] Connecting to transport...
+2026-07-01 16:27:27.965 [info] Excalidraw MCP server running on stdio
+2026-07-01 16:27:27.985 [info] Listing available tools
+2026-07-26 19:47:49.698 [info] Starting Excalidraw MCP server...
+2026-07-26 19:47:49.702 [debug] Connecting to transport...
+2026-07-26 19:47:49.703 [info] Excalidraw MCP server running on stdio
+2026-07-26 19:47:49.736 [info] Listing available tools
+2026-08-04 11:43:09.554 [info] Starting Excalidraw MCP server...
+2026-08-04 11:43:09.558 [debug] Connecting to transport...
+2026-08-04 11:43:09.558 [info] Excalidraw MCP server running on stdio
+2026-08-04 11:43:09.587 [info] Listing available tools
